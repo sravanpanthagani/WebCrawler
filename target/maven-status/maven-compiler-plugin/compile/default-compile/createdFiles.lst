@@ -1,0 +1,4 @@
+com\webCrawl\WebCrawlerService.class
+com\webCrawl\WebCrawler.class
+com\webCrawl\WebCrawlMain.class
+com\webCrawl\WebCrawlerService$excludeCrawling.class
